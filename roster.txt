@@ -1,7 +1,8 @@
-Roster: 
+Roster:
 
 
 
 Feyzi Bagirov(instructor)
 Golla Ujwala Reddy (Student)
+Krutik Shah(Student)
 Yuliana Shemetovets (Student)
