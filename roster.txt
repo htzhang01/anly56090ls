@@ -4,6 +4,7 @@ Roster:
 
 Feyzi Bagirov(instructor)
 Golla Ujwala Reddy (Student)
+Zhijie Fang (student)
 Polina Nagovitsyna (Student)
 Sumanth Jesta (Student)
 Qin Zhu (Student)
